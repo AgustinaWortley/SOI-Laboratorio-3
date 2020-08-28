@@ -81,4 +81,13 @@ void main()
         printf("%c\n", temp[i]);
 
     
-} ```
+} 
+```
+
+
+Utilizando el **man core**. Se solicita que responda las siguientes preguntas e indique en que renglón del man se encuentra la respuesta:
+
+1. ¿Cómo puedo obtener el coredump de un proceso que esta crriendo? 
+2. ¿Cómo se llama por defecto los archivos de core dump?
+3. ¿Qué restricciones de tamaño tienen por defecto y con qué comando y función puedo modificarlas?
+
